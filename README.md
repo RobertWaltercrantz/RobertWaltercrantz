@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobertWaltercrantz
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning C¤
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on interesting things related to authentiation
 - 📫 How to reach me ... you don't not yet anyway :-)
 
