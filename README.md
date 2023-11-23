@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RobertWaltercrantz
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in C#, PowerShell, JavaScript
+- 🌱 I’m currently learning C#, PowerShell, JavaScript
 - 💞️ I’m looking to collaborate on interesting things related to authentiation
-- 📫 How to reach me ... you don't not yet anyway :-)
+- 📫 How to reach me ... you don't... not yet anyway :-)
 
 <!---
 RobertWaltercrantz/RobertWaltercrantz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
