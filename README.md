@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobertWaltercrantz
-- 👀 I’m interested in C#, PowerShell, JavaScript
-- 🌱 I’m currently learning C#, PowerShell, JavaScript
+- 👀 I’m interested in C#, PowerShell, JavaScript, Node.js and React
+- 🌱 I’m currently learning C#, PowerShell, JavaScript, Node.js and React
 - 💞️ I’m looking to collaborate on interesting things related to authentiation
 - 📫 How to reach me ... you don't... not yet anyway :-)
 
